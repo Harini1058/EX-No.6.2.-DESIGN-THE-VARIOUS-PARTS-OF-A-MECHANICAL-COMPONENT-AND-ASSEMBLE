@@ -13,7 +13,7 @@ To Design the various parts of a mechanical component and assemble it using a bo
 ## COMMANDS USED:
 ### Align: 
 The Align tool allows you to align, distribute or organize selected elements, annotations, tags and text along the axis you specify. Furthermore, the Arrange feature will automatically neatly place your tags around the current view.
-The Align plug-in for Autodesk® Revit® can help to save time while producing complex drawings with large sets of annotation.
+The Align plug-in for Autodesk® Revit® can help to save time while producing complex drawings with large sets of annotations.
 Just select a few elements and the Align tool will sort them for you.
 
 ### Derive:
